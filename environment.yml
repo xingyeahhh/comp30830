@@ -1,0 +1,9 @@
+name: comp30830_new
+channels:
+  - defaults
+dependencies:
+  - r-base=3.6.1
+  - python=3.9
+  - r-essentials
+  - scikit-learn
+prefix: D:\JUPYTER\envs\comp30830_new
