@@ -6,4 +6,7 @@ dependencies:
   - python=3.9
   - r-essentials
   - scikit-learn
+  - numpy
+  - jupyterlab
+  - pandas
 prefix: D:\JUPYTER\envs\comp30830_new
